@@ -1,0 +1,11 @@
+openai==1.16.1
+streamlit==1.33.0
+python-dotenv==1.0.1
+langchain
+langchain-community l
+angchainhub
+langchain-openai
+langchain-chroma
+bs4
+torch
+
