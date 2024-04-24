@@ -30,11 +30,7 @@ pip install -r requirements.txt
 
 ## 🔑 API Key 
 
-To use the **OpenAI API** for language generation tasks, you need to set your OpenAI API key as a Streamlit secret. Follow these steps:
-
-- Obtain an API key from OpenAI.
-- Add your API key as a secret using the Streamlit CLI:
-
+For this project is necessary that you have an **OpenAI API** for language generation tasks. You may find more instructions here: [Developer quickstart](https://platform.openai.com/docs/quickstart)
 
 ## My Profile
 
