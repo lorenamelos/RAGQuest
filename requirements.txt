@@ -2,7 +2,7 @@ openai==1.16.1
 streamlit==1.33.0
 python-dotenv==1.0.1
 langchain
-langchain-community l
+langchain-community
 langchainhub
 langchain-openai
 langchain-chroma
