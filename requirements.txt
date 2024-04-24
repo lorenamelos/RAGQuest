@@ -6,5 +6,7 @@ langchain-community
 langchainhub
 langchain-openai
 langchain-chroma
+chromadb
+sqlite3==3.37.2
 bs4
 torch
